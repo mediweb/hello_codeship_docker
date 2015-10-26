@@ -1,0 +1,3 @@
+- service: app
+  command: bundle exec ruby check.rb
+
